@@ -1,7 +1,7 @@
 {
   "name": "top-courses",
   "version": "0.1.0",
-  "homepage": "https://shashank2405.github.io/Top_Course_Starter/",
+  "homepage": "https://shashank2405.github.io/Top_Course_Starter",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
